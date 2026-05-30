@@ -1,0 +1,12 @@
+libasound2t64
+libbsd0
+libc6
+libgl1
+libglvnd0
+libglx0
+libmd0
+liboss4-salsa-asound2
+libxau6
+libxcb1
+libxdmcp6
+primus-libs
