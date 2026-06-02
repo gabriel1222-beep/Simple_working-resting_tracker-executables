@@ -1,9 +1,6 @@
-OS specific problems:
+A simple work and resting manager
 
-You can run the windows executable on linux with wine without problems
+Features:
 
-Still creating the .deb package for debian and PKGBUILD for arch distros
-
-Manual Debian instalation:
-
-sudo apt install -y libasound2t64 libbsd0 libc6 libgl1 libglvnd0 libglx0 libmd0 liboss4-salsa-asound2 libxau6 libxcb1 libxdmcp6 primus-libs
+Will notify if you´re working too much and recommend resting
+Keeps tracks of the total amount of work you did 
